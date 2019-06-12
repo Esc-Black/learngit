@@ -1,0 +1,2 @@
+This is a LICENSE file.
+It is not necessary.
